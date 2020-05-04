@@ -1,3 +1,5 @@
+This is a simple ReactJS project setup with mocha/enzymes
+
 Step 1: Project Setup
  on your mac terminal under your project folder run below command
  yarn install
