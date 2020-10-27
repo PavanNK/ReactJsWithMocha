@@ -5,6 +5,10 @@
     "build": "webpack --mode production",
     "test": "mocha --require @babel/register src/test/**"
   },
+  "engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  },
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "react": "^16.9.0",
